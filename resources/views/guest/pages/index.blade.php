@@ -7,5 +7,6 @@
         <h1>
             Sono un Main-Content
         </h1>
+        @dump($trains)
     </main>
 @endsection
